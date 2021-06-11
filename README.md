@@ -3,8 +3,6 @@ A simple class to manage mysql querys with PHP
 
 Found this class on Internet and save here for dont lose it.
 
-/*
-
 DOC
 
 Connect to a database:
@@ -57,5 +55,3 @@ Close the database:
 Checking the total number of queries:
 	
 	echo $db->query_count;
-
-*/
